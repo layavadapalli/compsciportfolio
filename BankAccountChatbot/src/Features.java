@@ -9,7 +9,7 @@ public class Features {
         public Feature(String[] k, String a)
         {
             keywords = k;
-            action = a;
+            action = a+'hi';
         }
     }
 
